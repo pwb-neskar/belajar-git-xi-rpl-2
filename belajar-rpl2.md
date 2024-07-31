@@ -9,3 +9,5 @@ disini ada nama-nama
 3. bram
 4. acong
 5. mimin
+6. asih
+7. ujang
